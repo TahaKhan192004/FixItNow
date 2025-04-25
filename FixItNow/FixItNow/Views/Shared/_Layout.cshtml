@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - FixItNow</title>
+</head>
+<body>
+    <div>
+        <main role="main"">
+            @RenderBody()
+        </main>
+    </div>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/microsoft/signalr/dist/browser/signalr.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    <script>
+        var connection = new signalR.HubConnectionBuilder().withUrl("/notificationhub").build();
+
+        connection.on("ReceiveNotification", function () 
+        {
+            let toastBody = document.getElementById("toastBody");
+            let toastEl = new bootstrap.Toast(document.getElementById("liveToast"));
+            toastEl.show();
+        });
+        connection.start()
+        document.getElementById("serviceform").addEventListener("submit", function () 
+        {
+            connection.invoke("SendNotification")
+        });
+    </script>
+
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

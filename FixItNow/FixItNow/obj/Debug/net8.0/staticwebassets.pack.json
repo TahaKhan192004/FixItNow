@@ -1,0 +1,1089 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FixItNow.bundle.scp.css",
+      "PackagePath": "staticwebassets\\FixItNow.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\images\\about_us.jpg",
+      "PackagePath": "staticwebassets\\images\\about_us.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\images\\appstore.png",
+      "PackagePath": "staticwebassets\\images\\appstore.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\images\\avatar7.png",
+      "PackagePath": "staticwebassets\\images\\avatar7.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\images\\bg-img1.jpg",
+      "PackagePath": "staticwebassets\\images\\bg-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\images\\image.png",
+      "PackagePath": "staticwebassets\\images\\image.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\images\\newbg.jpg",
+      "PackagePath": "staticwebassets\\images\\newbg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\images\\pic1.jpg",
+      "PackagePath": "staticwebassets\\images\\pic1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\images\\pic2.jpg",
+      "PackagePath": "staticwebassets\\images\\pic2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\images\\pic3.jpg",
+      "PackagePath": "staticwebassets\\images\\pic3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\images\\playstore.png",
+      "PackagePath": "staticwebassets\\images\\playstore.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\images\\svg1.svg",
+      "PackagePath": "staticwebassets\\images\\svg1.svg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\images\\svg2.svg",
+      "PackagePath": "staticwebassets\\images\\svg2.svg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\images\\svg3.svg",
+      "PackagePath": "staticwebassets\\images\\svg3.svg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\images\\user graph.png",
+      "PackagePath": "staticwebassets\\images\\user graph.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\js\\newFile.1.js",
+      "PackagePath": "staticwebassets\\js\\newFile.1.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\js\\newFile.js",
+      "PackagePath": "staticwebassets\\js\\newFile.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\browser\\signalr.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\browser\\signalr.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.min.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\browser\\signalr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\browser\\signalr.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\abortcontroller.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\abortcontroller.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\abortcontroller.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\abortcontroller.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\accesstokenhttpclient.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\accesstokenhttpclient.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\accesstokenhttpclient.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\accesstokenhttpclient.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\browser-index.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\browser-index.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\browser-index.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\browser-index.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\defaulthttpclient.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\defaulthttpclient.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\defaulthttpclient.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\defaulthttpclient.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\defaultreconnectpolicy.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\defaultreconnectpolicy.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\defaultreconnectpolicy.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\defaultreconnectpolicy.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\errors.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\errors.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\errors.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\errors.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\fetchhttpclient.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\fetchhttpclient.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\fetchhttpclient.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\fetchhttpclient.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\handshakeprotocol.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\handshakeprotocol.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\handshakeprotocol.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\handshakeprotocol.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\headernames.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\headernames.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\headernames.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\headernames.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\httpclient.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\httpclient.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\httpclient.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\httpclient.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\httpconnection.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\httpconnection.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\httpconnection.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\httpconnection.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\hubconnection.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\hubconnection.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\hubconnection.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\hubconnection.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\hubconnectionbuilder.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\hubconnectionbuilder.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\hubconnectionbuilder.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\hubconnectionbuilder.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\iconnection.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\iconnection.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\iconnection.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\iconnection.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\ihttpconnectionoptions.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\ihttpconnectionoptions.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\ihttpconnectionoptions.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\ihttpconnectionoptions.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\ihubprotocol.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\ihubprotocol.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\ihubprotocol.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\ihubprotocol.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\ilogger.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\ilogger.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\ilogger.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\ilogger.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\index.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\index.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\index.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\iretrypolicy.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\iretrypolicy.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\iretrypolicy.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\iretrypolicy.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\istatefulreconnectoptions.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\istatefulreconnectoptions.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\istatefulreconnectoptions.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\istatefulreconnectoptions.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\itransport.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\itransport.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\itransport.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\itransport.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\jsonhubprotocol.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\jsonhubprotocol.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\jsonhubprotocol.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\jsonhubprotocol.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\loggers.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\loggers.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\loggers.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\loggers.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\longpollingtransport.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\longpollingtransport.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\longpollingtransport.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\longpollingtransport.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\messagebuffer.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\messagebuffer.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\messagebuffer.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\messagebuffer.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\polyfills.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\polyfills.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\polyfills.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\polyfills.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\serversenteventstransport.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\serversenteventstransport.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\serversenteventstransport.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\serversenteventstransport.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\stream.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\stream.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\stream.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\stream.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\subject.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\subject.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\subject.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\subject.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\textmessageformat.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\textmessageformat.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\textmessageformat.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\textmessageformat.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\utils.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\utils.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\utils.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\utils.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\websockettransport.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\websockettransport.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\websockettransport.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\websockettransport.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\xhrhttpclient.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\xhrhttpclient.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\xhrhttpclient.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\xhrhttpclient.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\abortcontroller.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\abortcontroller.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\abortcontroller.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\abortcontroller.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\abortcontroller.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\abortcontroller.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\accesstokenhttpclient.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\accesstokenhttpclient.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\accesstokenhttpclient.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\accesstokenhttpclient.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\accesstokenhttpclient.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\accesstokenhttpclient.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\browser-index.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\browser-index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\browser-index.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\browser-index.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\browser-index.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\browser-index.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\defaulthttpclient.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\defaulthttpclient.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\defaulthttpclient.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\defaulthttpclient.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\defaulthttpclient.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\defaulthttpclient.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\defaultreconnectpolicy.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\defaultreconnectpolicy.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\defaultreconnectpolicy.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\defaultreconnectpolicy.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\defaultreconnectpolicy.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\defaultreconnectpolicy.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\errors.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\errors.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\errors.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\errors.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\errors.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\errors.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\fetchhttpclient.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\fetchhttpclient.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\fetchhttpclient.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\fetchhttpclient.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\fetchhttpclient.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\fetchhttpclient.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\handshakeprotocol.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\handshakeprotocol.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\handshakeprotocol.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\handshakeprotocol.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\handshakeprotocol.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\handshakeprotocol.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\headernames.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\headernames.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\headernames.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\headernames.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\headernames.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\headernames.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\httpclient.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\httpclient.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\httpclient.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\httpclient.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\httpclient.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\httpclient.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\httpconnection.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\httpconnection.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\httpconnection.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\httpconnection.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\httpconnection.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\httpconnection.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\hubconnection.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\hubconnection.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\hubconnection.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\hubconnection.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\hubconnection.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\hubconnection.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\hubconnectionbuilder.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\hubconnectionbuilder.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\hubconnectionbuilder.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\hubconnectionbuilder.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\hubconnectionbuilder.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\hubconnectionbuilder.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\iconnection.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\iconnection.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\iconnection.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\iconnection.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\iconnection.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\iconnection.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\ihttpconnectionoptions.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\ihttpconnectionoptions.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\ihttpconnectionoptions.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\ihttpconnectionoptions.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\ihttpconnectionoptions.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\ihttpconnectionoptions.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\ihubprotocol.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\ihubprotocol.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\ihubprotocol.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\ihubprotocol.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\ihubprotocol.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\ihubprotocol.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\ilogger.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\ilogger.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\ilogger.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\ilogger.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\ilogger.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\ilogger.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\index.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\index.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\index.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\index.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\iretrypolicy.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\iretrypolicy.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\iretrypolicy.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\iretrypolicy.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\iretrypolicy.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\iretrypolicy.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\istatefulreconnectoptions.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\istatefulreconnectoptions.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\istatefulreconnectoptions.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\istatefulreconnectoptions.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\istatefulreconnectoptions.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\istatefulreconnectoptions.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\itransport.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\itransport.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\itransport.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\itransport.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\itransport.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\itransport.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\jsonhubprotocol.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\jsonhubprotocol.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\jsonhubprotocol.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\jsonhubprotocol.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\jsonhubprotocol.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\jsonhubprotocol.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\loggers.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\loggers.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\loggers.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\loggers.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\loggers.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\loggers.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\longpollingtransport.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\longpollingtransport.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\longpollingtransport.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\longpollingtransport.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\longpollingtransport.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\longpollingtransport.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\messagebuffer.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\messagebuffer.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\messagebuffer.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\messagebuffer.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\messagebuffer.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\messagebuffer.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\polyfills.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\polyfills.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\polyfills.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\polyfills.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\polyfills.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\polyfills.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\serversenteventstransport.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\serversenteventstransport.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\serversenteventstransport.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\serversenteventstransport.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\serversenteventstransport.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\serversenteventstransport.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\stream.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\stream.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\stream.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\stream.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\stream.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\stream.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\subject.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\subject.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\subject.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\subject.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\subject.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\subject.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\textmessageformat.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\textmessageformat.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\textmessageformat.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\textmessageformat.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\textmessageformat.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\textmessageformat.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\utils.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\utils.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\utils.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\utils.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\utils.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\utils.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\websockettransport.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\websockettransport.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\websockettransport.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\websockettransport.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\websockettransport.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\websockettransport.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\xhrhttpclient.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\xhrhttpclient.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\xhrhttpclient.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\xhrhttpclient.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\xhrhttpclient.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\xhrhttpclient.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\webworker\\signalr.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\webworker\\signalr.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\webworker\\signalr.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\webworker\\signalr.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\webworker\\signalr.min.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\webworker\\signalr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\lib\\microsoft\\signalr\\dist\\webworker\\signalr.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\webworker\\signalr.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\uploads\\UploadedImages\\Screenshot (151)_bc37c88d-9658-4395-9277-367dc4e410b6.png",
+      "PackagePath": "staticwebassets\\uploads\\UploadedImages\\Screenshot (151)_bc37c88d-9658-4395-9277-367dc4e410b6.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\uploads\\UploadedImages\\Screenshot (3)_522a5e2c-7e9c-4a66-be05-2633e9dbbe06.png",
+      "PackagePath": "staticwebassets\\uploads\\UploadedImages\\Screenshot (3)_522a5e2c-7e9c-4a66-be05-2633e9dbbe06.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\uploads\\UploadedImages\\Screenshot (33)_954de20f-b89a-498c-b378-856c66d3370c.png",
+      "PackagePath": "staticwebassets\\uploads\\UploadedImages\\Screenshot (33)_954de20f-b89a-498c-b378-856c66d3370c.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\uploads\\UploadedImages\\Screenshot (6)_ed4065ad-1eb2-45b1-93d5-ff18f185e4e1.png",
+      "PackagePath": "staticwebassets\\uploads\\UploadedImages\\Screenshot (6)_ed4065ad-1eb2-45b1-93d5-ff18f185e4e1.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\uploads\\UploadedImages\\Screenshot (7)_23e42134-1ee8-493d-80bf-5d4aa4c581e9.png",
+      "PackagePath": "staticwebassets\\uploads\\UploadedImages\\Screenshot (7)_23e42134-1ee8-493d-80bf-5d4aa4c581e9.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\uploads\\UploadedImages\\Screenshot (7)_6706574a-3d01-4193-b0b1-58418e5ab81c.png",
+      "PackagePath": "staticwebassets\\uploads\\UploadedImages\\Screenshot (7)_6706574a-3d01-4193-b0b1-58418e5ab81c.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\uploads\\UploadedImages\\Screenshot (78)_9aed9c76-89cf-433d-9989-3a30d48c42f3.png",
+      "PackagePath": "staticwebassets\\uploads\\UploadedImages\\Screenshot (78)_9aed9c76-89cf-433d-9989-3a30d48c42f3.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\uploads\\UploadedImages\\Screenshot (8)_0f836d6f-3094-4552-8a03-a21548faee2a.png",
+      "PackagePath": "staticwebassets\\uploads\\UploadedImages\\Screenshot (8)_0f836d6f-3094-4552-8a03-a21548faee2a.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\uploads\\UploadedImages\\construction_9df2a2b1-9cdd-4919-ab09-a416307920bf.jpg",
+      "PackagePath": "staticwebassets\\uploads\\UploadedImages\\construction_9df2a2b1-9cdd-4919-ab09-a416307920bf.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\uploads\\UploadedImages\\construction_e01f9a5d-5060-4a93-bc69-ec7f9277629a.jpg",
+      "PackagePath": "staticwebassets\\uploads\\UploadedImages\\construction_e01f9a5d-5060-4a93-bc69-ec7f9277629a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\uploads\\UploadedImages\\electrical_0379b6e8-4b77-4c92-9682-03114c170703.jpg",
+      "PackagePath": "staticwebassets\\uploads\\UploadedImages\\electrical_0379b6e8-4b77-4c92-9682-03114c170703.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\uploads\\UploadedImages\\electrical_b02046b9-347c-4ec5-b263-9f27e3e73965.jpg",
+      "PackagePath": "staticwebassets\\uploads\\UploadedImages\\electrical_b02046b9-347c-4ec5-b263-9f27e3e73965.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\uploads\\UploadedImages\\images_c03648e4-c10f-4b9f-b8a5-c6f313442ead.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\UploadedImages\\images_c03648e4-c10f-4b9f-b8a5-c6f313442ead.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\uploads\\UploadedImages\\plumbering_b1953d5b-1d56-429c-b0f0-0e4547966ba8.jpg",
+      "PackagePath": "staticwebassets\\uploads\\UploadedImages\\plumbering_b1953d5b-1d56-429c-b0f0-0e4547966ba8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\uploads\\UploadedImages\\plumbering_f6272a4c-eb07-44c3-92d9-b92a23ece0b3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\UploadedImages\\plumbering_f6272a4c-eb07-44c3-92d9-b92a23ece0b3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\uploads\\profilePics\\03242019-05_cc84d153-154c-4a3d-b53d-ad11f75902df.jpg",
+      "PackagePath": "staticwebassets\\uploads\\profilePics\\03242019-05_cc84d153-154c-4a3d-b53d-ad11f75902df.jpg"
+    },
+    {
+      "Id": "C:\\Users\\dell\\Source\\Repos\\FixItNow\\FixItNow\\wwwroot\\uploads\\resumes\\Project Report_f50770ff-2e0e-49e4-ad92-2e2aeef9205e.pdf",
+      "PackagePath": "staticwebassets\\uploads\\resumes\\Project Report_f50770ff-2e0e-49e4-ad92-2e2aeef9205e.pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FixItNow.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.FixItNow.props",
+      "PackagePath": "build\\FixItNow.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.FixItNow.props",
+      "PackagePath": "buildMultiTargeting\\FixItNow.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.FixItNow.props",
+      "PackagePath": "buildTransitive\\FixItNow.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
